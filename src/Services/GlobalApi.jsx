@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const movieBaseUrl= "https://api.themoviedb.org/3";
-const api_key= import.meta.env.VITE_MOVIE_KEY;
+const api_key= import.meta.env.VITE_KEY;
 
 const movieByGenreBaseURL=import.meta.env.VITE_URL;
 
