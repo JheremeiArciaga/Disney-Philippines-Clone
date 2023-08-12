@@ -10,7 +10,7 @@ This is a clone of the Disney Philippines Website created using React, Vite, Tai
 - Axios: [Docs](https://axios-http.com/docs/intro)
 - Tailwind CSS: [Docs](https://tailwindcss.com/)
 - vercel [deploy](https://vercel.com/)
-Others...
+- Others...
 
 ### 📦 Installation:
 
@@ -27,7 +27,7 @@ Start the application using the following command:
 npm start or npm run dev
 ```
 
-Screenshot
+### 🎞 Screenshot
 ![Disney](https://github.com/JheremeiArciaga/Disney-Philippines-Clone/assets/92977447/5f9400d8-e1bc-4f80-9c66-68e3914a6880)
 
 
