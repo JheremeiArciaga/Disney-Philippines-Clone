@@ -4,8 +4,9 @@
 This is a clone of the Disney Philippines Website created using React, Vite, Tailwind CSS, Axios React Router DOM, and other technologies.
 
 ## 📌 Helpful links:
-* React: a JavaScript library for building user interfaces.
-* Vite: A fast build tooling framework for modern web applications.
+- React: a JavaScript library for building user interfaces. - [State](https://react.dev/learn/state-a-components-memory) 
+- Vite: A fast build tooling framework for modern web applications. - [Guide](https://vitejs.dev/guide/) 
+
 * Axios: is a Javascript library used to make HTTP requests from node. 
 * Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 * react-router-dom: a routing library for React applications.
@@ -13,15 +14,15 @@ This is a clone of the Disney Philippines Website created using React, Vite, Tai
 Others...
 
 ## 📦 Installation:
-* Clone the repository:
-  ```
-   https://github.com/JheremeiArciaga/Disney-Philippines-Clone.git
-  ``` 
-* Install the dependencies using the following command:
+ Clone the repository:
+```
+ https://github.com/JheremeiArciaga/Disney-Philippines-Clone.git
+```
+Install the dependencies using the following command:
 ```
   npm install or npm install vite@latest
 ``` 
-* Start the application using the following command:
+Start the application using the following command:
 ```
 npm start or npm run dev
 ```
