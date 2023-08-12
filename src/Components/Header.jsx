@@ -63,7 +63,7 @@ const Header= () => {
         <div className="flex items-center ">
         <img src={User}
         className='w-[40px] rounded-full pe-2'/>
-        <p className='cursor-pointer'>Sign In/Register</p>
+        <p className='cursor-pointer hidden lg:block'>Sign In/Register</p>
         </div>
         
     </div>
