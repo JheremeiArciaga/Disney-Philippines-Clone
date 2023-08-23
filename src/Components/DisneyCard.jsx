@@ -5,8 +5,8 @@ const DisneyCard = () => {
   return (
     <>
 
-      <section className="container-xl p-5  bg-[#030C40]">
-        <div className="text-center text-5xl mb-[3rem] mt-[3rem]">
+      <section className="container-xl p-5  bg-[#030C40] pb-[5rem]">
+        <div className="text-center text-5xl mb-[3rem] mt-[3rem] ">
           What's new to Disney+
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 rounded-md ">
@@ -41,7 +41,7 @@ const DisneyCard = () => {
                 alt=""
               />
               <div className="p-4">
-                <h2 className="font-semibold text-white text-lg ps-3 py-3">
+                <h2 className="font-semibold text-white text-lg ps-3 py-4">
                   Avatar: The Way of Water
                 </h2>
                 <hr className="mt-2" />

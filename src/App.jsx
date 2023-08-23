@@ -7,6 +7,8 @@ import Slider from "./Components/Slider";
 import DisneyCard from "./Components/DisneyCard";
 import ProductionHouse from "./Components/ProductionHouse";
 import GenreMovieList from "./Components/GenreMovieList";
+import Footer from "./Components/footer";
+
 
 const App = () => {
   const [count, setCount] = useState(0);
@@ -18,6 +20,7 @@ const App = () => {
       <ProductionHouse />
       <GenreMovieList />
       <DisneyCard />
+      <Footer />
     </div>
   );
 }
